@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You may also find my recent articles on [Google
+Scholar](https://scholar.google.com/citations?user=wonQe_sAAAAJ&hl=en&oi=ao).
 
-{% include base_path %}
+## Preprints
+- [Nonnegative Bayesian nonparametric factor models with completely random measures for community detection](https://arxiv.org/pdf/1902.10693.pdf)\\
+*Under Journal review,*\\
+Fadhel Ayed, François Caron
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
