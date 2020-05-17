@@ -21,7 +21,7 @@ Fadhel Ayed, Marco Battiston, Federico Camerlenghi, Stefano Favaro,\\
 Fadhel Ayed, Marco Battiston, Federico Camerlenghi, Stefano Favaro,\\
 *Under Journal review*
 
-- [DP^2: Dirichlet Processes for Differential Privacy]\\
+- [DP^2: Dirichlet Processes for Differential Privacy]()\\
 Fadhel Ayed, Marco Battiston, Giuseppe Di Benedetto,\\
 *Under conference review (available upon request)*
 
