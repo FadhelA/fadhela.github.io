@@ -12,9 +12,15 @@ I am Fadhel Ayed, a doctoral researcher in Statistical Machine Learning at the U
 
 My primary research subject is statistical machine learning with Bayesian Nonparametric methods and models. I have been working on two main lines of research: 1) Methodological and theoretical properties of clustering and feature allocation models, with applications to language and network modeling; 2) Privacy preservation and disclosure risk limitation.
 
+Since September 2019, I have been working part-time with the AWS forecasting team at Amazon Research. I am developing models at the intersectopn of Bayesian Machine Learning and Deep learning for anomaly detection.
 
-
+Curriculum
+------
+Can be found [here]()
 
 Contact
 ------
 My email is fadhel.ayed@gmail.com
+
+
+
