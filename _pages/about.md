@@ -16,7 +16,7 @@ Since September 2019, I have been working part-time with the AWS forecasting tea
 
 Curriculum
 ------
-Can be found [here]()
+Can be found [here](files/CV_ayed_2020.pdf)
 
 Contact
 ------
