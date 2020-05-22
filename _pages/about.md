@@ -14,7 +14,7 @@ My primary research subject is statistical machine learning with Bayesian Nonpar
 
 Since September 2019, I have been working part-time with the AWS forecasting team at Amazon Research. I am developing models for anomaly detection at the intersection of Bayesian Machine Learning and Deep learning.
 
-Curriculum
+Curriculum Vitae
 ------
 Can be found [here](files/CV_ayed_2020.pdf)
 
