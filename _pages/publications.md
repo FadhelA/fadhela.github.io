@@ -31,6 +31,10 @@ Fadhel Ayed, Marco Battiston, Federico Camerlenghi, Stefano Favaro,\\
 
 
 ## Journals and Proceedings
+- [An Information Theoretic approach to Post Randomization Methods under Differential Privacy](http://www.research.lancs.ac.uk/portal/en/publications/-(2f8810e4-0bcb-4195-9560-48d92a2499d6).html)\\
+Fadhel Ayed, Marco Battiston, Federico Camerlenghi,\\
+*Statistics and Computing 2020*
+
 - [Beyond the Chinese restaurant and Pitman-Yor processes: Statistical models with double power-law behavior](https://arxiv.org/abs/1902.04714)\\
 Fadhel Ayed, Juho Lee, François Caron\\
 *ICML 2019 (full oral presentation)*
@@ -39,9 +43,7 @@ Fadhel Ayed, Juho Lee, François Caron\\
 Fadhel Ayed, Marco Battiston, Federico Camerlenghi, Stefano Favaro,\\
 *Electronic Journal of Statistics 2019*
 
-- [An Information Theoretic approach to Post Randomization Methods under Differential Privacy](http://www.research.lancs.ac.uk/portal/en/publications/-(2f8810e4-0bcb-4195-9560-48d92a2499d6).html)\\
-Fadhel Ayed, Marco Battiston, Federico Camerlenghi,\\
-*Statistics and Computing*
+
 
 
 
