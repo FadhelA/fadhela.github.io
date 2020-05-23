@@ -39,9 +39,9 @@ Fadhel Ayed, Juho Lee, François Caron\\
 Fadhel Ayed, Marco Battiston, Federico Camerlenghi, Stefano Favaro,\\
 *Electronic Journal of Statistics 2019*
 
-- [An Information Theoretic approach to Post Randomization Methods under Differential Privacy]()\\
+- [An Information Theoretic approach to Post Randomization Methods under Differential Privacy](http://www.research.lancs.ac.uk/portal/en/publications/-(2f8810e4-0bcb-4195-9560-48d92a2499d6).html)\\
 Fadhel Ayed, Marco Battiston, Federico Camerlenghi,\\
-*Statistics and Computing (to appear, available upon request)*
+*Statistics and Computing*
 
 
 
